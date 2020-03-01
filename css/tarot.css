@@ -1,16 +1,25 @@
 .tarot{
 
 }
-.witam{
-  max-width: 500px;
-  padding:5%;
-  padding-top: 2%;
-}
 .span-witam{
+  color:white;
+  text-align: left;
 
 }
+.srodek{
+  background-color: #770478;
+  color: white;
+}
+.prawo{
+  max-width: 500px;
+  padding:5%;
+  padding-top: 1%;
+  background-color: #a606a8;
+}
+
 .wrozkaimg{
   text-align: right;
   margin-right: 0px;
   position: relative;
+  background-color: #8e0590;
 }
