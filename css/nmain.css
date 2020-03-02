@@ -2,6 +2,8 @@ body{
   margin: 0px;
   padding: 0px;
   overflow-x: hidden;
+  align-items: center;
+  justify-content: center;
 }
 .naglowek{
   max-width: 100%;
